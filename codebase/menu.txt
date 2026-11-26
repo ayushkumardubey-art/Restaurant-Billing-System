@@ -1,0 +1,4 @@
+Dosa,80
+Idli,40
+Thali,150
+Tea,20
